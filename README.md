@@ -3,7 +3,7 @@
 # HOW TO USE:
 ## After clean install of Ubuntu 20.04 Server on VMWare Fusion running on MacOSX,
 ```bash
-git clone https://github.com/jaejeonpark/ROS_Noetic_VM.git 
+git clone https://github.com/jaejeongpark/ROS_Noetic_VM.git 
 cd ROS_Noetic_VM && bash setup.sh
 sudo reboot
 ```
